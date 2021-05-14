@@ -19,6 +19,9 @@ def get_start_msg():
 股票开心聊群：
 https://t.me/joinchat/CpWBiw6yHOkyYTVl
 
+毛票教读书会：
+https://t.me/joinchat/qfDYQcwBy1VlYTc1
+
 旅行团友群：
 https://t.me/joinchat/H7BPD0eLWqvSTPKB
 
@@ -33,6 +36,12 @@ https://t.me/joinchat/6OHFklcv-8JlZmM1
         stock_msg = config.CONFIG['stock_start']
     else:
         stock_msg = """
+毛票教友汇-每日语音在线聊
+https://t.me/joinchat/TfWBdbo2jPd-rsRH
+
+毛票教读书会：
+https://t.me/joinchat/qfDYQcwBy1VlYTc1
+
 旅行团友群：
 https://t.me/joinchat/H7BPD0eLWqvSTPKB
 
@@ -41,9 +50,6 @@ https://t.me/joinchat/H3E3Y_WL4MABeF9s
 
 Switch游戏玩不停
 https://t.me/joinchat/6OHFklcv-8JlZmM1
-
-本群精华收集频道-听毛票女神和女皇的
-https://t.me/joinchat/TfWBdbo2jPd-rsRH
 
 ARK交易跟踪频道
 https://t.me/ark_fyi_bot
